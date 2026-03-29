@@ -1,0 +1,43 @@
+[
+  {
+    "question": "what is ml",
+    "answer": "Machine Learning (ML) is a branch of Artificial Intelligence that allows systems to learn from data and improve automatically without being explicitly programmed.",
+    "sources": [
+      "ML_Information.pdf"
+    ],
+    "confidence": "high",
+    "suggestions": [
+      "What are some common applications of Machine Learning?",
+      "How does Machine Learning differ from traditional programming?",
+      "Can Machine Learning be used for real-time decision-making?"
+    ],
+    "timestamp": "17:23",
+    "date": "29 Mar 2026"
+  },
+  {
+    "question": "How does Machine Learning differ from traditional programming?",
+    "answer": "Machine Learning differs from traditional programming in that it allows systems to learn from data and improve automatically without being explicitly programmed.",
+    "sources": [
+      "ML_Information.pdf"
+    ],
+    "confidence": "high",
+    "suggestions": [
+      "What types of data are typically used to train Machine Learning models?",
+      "How does Machine Learning handle new or unseen data that it has not been trained on?",
+      "Can Machine Learning models be used to make predictions or decisions in real-time?"
+    ],
+    "timestamp": "17:24",
+    "date": "29 Mar 2026"
+  },
+  {
+    "question": "Can Machine Learning models be used to make predictions or decisions in real-time?",
+    "answer": "The information does not contain this.",
+    "sources": [
+      "ML_Information.pdf"
+    ],
+    "confidence": "not_found",
+    "suggestions": [],
+    "timestamp": "17:24",
+    "date": "29 Mar 2026"
+  }
+]
